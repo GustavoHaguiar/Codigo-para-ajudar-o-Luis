@@ -1,0 +1,15 @@
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\obj\Debug\net6.0\Teste For com Array do Luis.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\obj\Debug\net6.0\Teste For com Array do Luis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\obj\Debug\net6.0\Teste For com Array do Luis.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\obj\Debug\net6.0\Teste For com Array do Luis.AssemblyInfo.cs
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\obj\Debug\net6.0\Teste For com Array do Luis.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\bin\Debug\net6.0\Teste For com Array do Luis.exe
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\bin\Debug\net6.0\Teste For com Array do Luis.deps.json
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\bin\Debug\net6.0\Teste For com Array do Luis.runtimeconfig.json
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\bin\Debug\net6.0\Teste For com Array do Luis.dll
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\bin\Debug\net6.0\Teste For com Array do Luis.pdb
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\obj\Debug\net6.0\Teste For com Array do Luis.dll
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\obj\Debug\net6.0\refint\Teste For com Array do Luis.dll
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\obj\Debug\net6.0\Teste For com Array do Luis.pdb
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\obj\Debug\net6.0\Teste For com Array do Luis.genruntimeconfig.cache
+C:\Users\gusta\Desktop\Teste For com Array do Luis\Teste For com Array do Luis\obj\Debug\net6.0\ref\Teste For com Array do Luis.dll
